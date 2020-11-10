@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06e1091-afaf-4d0d-bf94-c004b55f6655" name="Default Changelist" comment="" />
+    <list default="true" id="d06e1091-afaf-4d0d-bf94-c004b55f6655" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/counter1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/counter2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/rootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/rootReducer.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k1PRwtlWHSqnYzxmdoTBa4nfzE" />
   <component name="ProjectViewState">
@@ -30,10 +45,19 @@
       <option name="presentableId" value="Default" />
       <updated>1604865120544</updated>
       <workItem from="1604865121954" duration="2270000" />
+      <workItem from="1604867401508" duration="645000" />
+      <workItem from="1604950454562" duration="639000" />
+      <workItem from="1605004612037" duration="7402000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="103" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604867586506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="103" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604867586506" />
   </component>
 </project>
